@@ -4,7 +4,7 @@ describe("Google Homepage interaction", () => {
 	});
 
   it("should have sign in button", () => {
-    cy.get("a.gb_ha.gb_ia.gb_ee.gb_ed").should("contain", "Sign in");
+    cy.get('.gb_ia').should("contain", "Sign in");
   })
 
 	it("should get input element and type Hello World", () => {
