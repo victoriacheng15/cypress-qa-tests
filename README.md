@@ -31,7 +31,7 @@ Check List:
 - Find the `Sections of Social Media Follows` title
 - The form should be filled with `Test User`, `user@example.com`, and `16`
 
-[test file](./cypress/e2e/ultimateqa-complicated-page.cy.js)
+[test file](./cypress/e2e/the-internet-add-remove.cy.js)
 
 <details>
 <summary>See the video in action</summary>
