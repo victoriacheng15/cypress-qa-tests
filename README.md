@@ -8,14 +8,14 @@ Check List:
 
 - Find the sign-in button
 - Get the search bar and type `hello world`
-- Check the URL after press enter `hello world` for the search parameter
+- Check the URL after pressing enter `hello` world` for the search parameter
 
 [test file](./cypress/e2e/google.cy.js)
 
 <details>
 <summary>See the video in action</summary>
 
-https://user-images.githubusercontent.com/35031228/217336175-20a47f12-b776-4210-b90f-79b2fc1f129d.mp4
+https://user-images.githubusercontent.com/35031228/218183453-45a778a4-4860-496b-a42e-162766550c6a.mp4
 
 </details>
 
@@ -36,7 +36,27 @@ Check List:
 <details>
 <summary>See the video in action</summary>
 
-https://user-images.githubusercontent.com/35031228/217338643-6d72d4ae-56c2-4805-995c-f1ab9777ddf6.mp4
+https://user-images.githubusercontent.com/35031228/218183457-576f1d4b-9ef3-47bd-acc8-f6bca874c4d5.mp4
+
+</details>
+
+---
+
+## The internet - add/remove page
+
+Check List:
+
+- Go to the Internet page
+- Click `Add/Remove Elements` link
+- Click the `Add Element` button 4 times and check `Delete` buttons length
+- Click `Add Element` buttons twice and then click `Delete` button to remove one element, and check the `Delete` element for visibility
+
+[test file](./cypress/e2e/ultimateqa-complicated-page.cy.js)
+
+<details>
+<summary>See the video in action</summary>
+
+https://user-images.githubusercontent.com/35031228/218185948-d22589f7-5b38-4081-b413-82e7b0ad5263.mp4
 
 </details>
 
