@@ -61,3 +61,27 @@ https://user-images.githubusercontent.com/35031228/218185948-d22589f7-5b38-4081-
 </details>
 
 ---
+
+## LetCode - input fields
+
+Check List:
+
+- Go to the input page
+- Check for title of the page
+- Enter `John Doe` full name
+- Append `today` text after `I am good`
+- Check the input value `ortonikc`
+- Clear the text in the input field
+- Confirm the edit field is `disabled`
+- Confirm the text is `readonly`
+
+[test file](./cypress/e2e/letcode-inpuit-fields.cy.js)
+
+<details>
+<summary>See the video in action</summary>
+
+https://user-images.githubusercontent.com/35031228/218331479-9a694c3d-21eb-4bad-bce4-5b48acd08907.mp4
+
+</details>
+
+---
